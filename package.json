@@ -1,5 +1,5 @@
 {
-  "name": "stencils-mess",
+  "name": "@nrakochy/stencils",
   "version": "0.0.1",
   "description": "See what the Stenciljs Dist generates",
   "main": "dist/index.js",
